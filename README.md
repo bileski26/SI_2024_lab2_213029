@@ -15,3 +15,4 @@ P - број на различни компоненти
 # Тест случаи според критериумот Every Branch 
 [Тест случаи според критериумот Every Branch.xlsx](https://github.com/bileski26/SI_2024_lab2_213029/files/15444613/Every.Branch.xlsx)
 
+# Multiple Condition критериум
